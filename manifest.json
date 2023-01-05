@@ -1,11 +1,10 @@
 {
   "name": "Lighthouse Gauge",
-  "organization": "James Buckley",
-  "organizationUrl":"https://www.jibbyjames.com",
-  "description": "A highly customisable gauge based on those featured in Lighthouse auditing reports.",
-  "logoUrl": "https://storage.googleapis.com/jjbuckley-datastudio/lighthouse-gauge/icon_800x600.png",
+  "organization": "Charlie Bricknell",
+  "description": "A highly customisable gauge based on those featured in Lighthouse auditing reports. Forked from https://github.com/JibbyJames/data-studio-lighthouse-gauge/",
+  "logoUrl": "https://storage.googleapis.com/cbricknell-datastudio/lighthouse-gauge/icon_800x600.png",
   "packageUrl": "https://datastudio.google.com/reporting/bf0d5276-af97-4c9f-8bbe-068edbf79cbd",
-  "supportUrl": "https://github.com/JibbyJames/data-studio-lighthouse-gauge/issues",
+  "supportUrl": "https://github.com/MrCooki/data-studio-lighthouse-gauge/issues",
   "privacyPolicyUrl": "https://datastudio.google.com/u/0/reporting/bf0d5276-af97-4c9f-8bbe-068edbf79cbd/page/p_wm31vmbzmc",
   "termsOfServiceUrl": "https://datastudio.google.com/u/0/reporting/bf0d5276-af97-4c9f-8bbe-068edbf79cbd/page/p_3zf32tbzmc",
   "devMode": false,
@@ -13,10 +12,10 @@
     "id": "lhGauge",
     "name": "Lighthouse Gauge",
     "description": "A highly customisable gauge based on those featured in Lighthouse auditing reports.",
-    "iconUrl": "https://storage.googleapis.com/jjbuckley-datastudio/lighthouse-gauge/icon_800x600.png",
+    "iconUrl": "https://storage.googleapis.com/cbricknell-datastudio/lighthouse-gauge/icon_800x600.png",
     "resource": {
-      "config": "gs://jjbuckley-datastudio/lighthouse-gauge/lhGauge.json",
-      "js": "gs://jjbuckley-datastudio/lighthouse-gauge/lhGauge.js"
+      "config": "gs://cbricknell-datastudio/lighthouse-gauge/lhGauge.json",
+      "js": "gs://cbricknell-datastudio/lighthouse-gauge/lhGauge.js"
     }
   }]
 }
